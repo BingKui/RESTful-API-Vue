@@ -1,0 +1,23 @@
+{
+  "name": "restful-api-vue",
+  "version": "0.0.1",
+  "description": "RESTful API 前端界面",
+  "main": "index.js",
+  "dependencies": {
+    "muse-ui": "^2.0.0-rc.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingKui/RESTful-API-Vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BingKui/RESTful-API-Vue/issues"
+  },
+  "homepage": "https://github.com/BingKui/RESTful-API-Vue#readme"
+}
